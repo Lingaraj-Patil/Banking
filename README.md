@@ -75,8 +75,12 @@ This project is a full-stack banking website built using the MERN (MongoDB, Expr
 
 7. Open your browser and visit `http://localhost:5000` to access the application.
 
+
 ## Video
 
+https://github.com/user-attachments/assets/2b98ea14-340d-482b-9f77-96b185060b9c
 
-## Screenshots
+
+
+
 
